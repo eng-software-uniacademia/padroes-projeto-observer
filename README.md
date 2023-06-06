@@ -1,1 +1,1 @@
-![](./docs/diagram.jpg?raw=true "Diagrama")
+![](./docs/Diagram.jpg?raw=true "Diagrama")
